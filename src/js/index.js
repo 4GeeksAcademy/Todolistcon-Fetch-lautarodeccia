@@ -1,4 +1,5 @@
-//import react into the bundle
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-NXA3D1GyB4wpjR9Rtk8VkmFXKm2FjONkcw5JOA6o5FS5D5nkjwtnN5N5aCo5RQ+/r5QoP2G+Rx3HJgK5O6c+5CQ==" crossorigin="anonymous" />
+
 import React from "react";
 import ReactDOM from "react-dom/client";
 

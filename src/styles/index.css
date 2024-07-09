@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+  background-color:   rgb(249,249,249);
+}
+.list-group-item {
+    position: relative;
+}
+
+.list-group-item .fas {
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.list-group-item:hover .fas {
+    opacity: 1;
+}
